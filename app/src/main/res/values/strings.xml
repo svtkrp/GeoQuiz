@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+
+    <string name="question_london">London is the capital of Britain.</string>
+    <string name="question_ocean">The Pacific Ocean is larger than the Atlantic Ocean.</string>
+    <string name="question_africa">The source of the Nile River is in Egypt.</string>
+
+    <string name="question_spb">St. Petersburg is the capital of Russia.</string>
+    <string name="question_india">India is in America.</string>
+    <string name="question_moscow">Bears walk around Moscow.</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+
+    <string name="correct_toast">correct!</string>
+    <string name="incorrect_toast">incorrect!</string>
+
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show answer</string>
+    <string name="cheat_button">Cheat!</string>
+
+    <string name="judgment_toast">Oh-oh-oh, cheating is not good!</string>
+    <string name="good_fellow_toast">What a good fellow, you did not succumb to the temptation.</string>
+    <string name="separator">&#160;And your answer is&#160;</string>
+
+    <string name="leftover_cheats_count_text">%d prompts left.</string>
+    <string name="end_toast">"The end. %d answers are correct, %d are incorrect. Percentage of correct answers is %.2f per cent. Number of peeped answers is %d."</string>
+</resources>

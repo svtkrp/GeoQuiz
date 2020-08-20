@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ГеоКвест</string>
+
+    <string name="question_london">Лондон - столица Англии.</string>
+    <string name="question_ocean">Тихий океан больше Атлантического.</string>
+    <string name="question_africa">Нил находится в Египте.</string>
+
+    <string name="question_spb">СПб - столица России.</string>
+    <string name="question_india">Индия находится в Америке.</string>
+    <string name="question_moscow">По Москве ходят медведи.</string>
+
+    <string name="true_button">Правда</string>
+    <string name="false_button">Ложь</string>
+    <string name="next_button">Следующий</string>
+
+    <string name="correct_toast">правильно!</string>
+    <string name="incorrect_toast">неправильно!</string>
+
+    <string name="end_toast">Конец. Правильных ответов %d, неправильных - %d. Правильных ответов %.2f процентов. Подсмотренных ответов %d.</string>
+
+    <string name="warning_text">Ты уверен, что правда хочешь это сделать?</string>
+    <string name="show_answer_button">Показать ответ</string>
+    <string name="cheat_button">Подсмотреть ответ!</string>
+
+    <string name="judgment_toast">Ай-яй-яй, читерство - это нехорошо!</string>
+    <string name="good_fellow_toast">Какой молодец, не поддался соблазну.</string>
+    <string name="separator">&#160;А ответил ты&#160;</string>
+
+    <string name="leftover_cheats_count_text">Осталось %d подсказок.</string>
+</resources>
